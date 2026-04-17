@@ -4,7 +4,7 @@
 
 ## ✉️ SNS
 <img src="https://img.shields.io/badge/gahyeona0i24@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/><a/>
-<a href="https://www.instagram.com/n.0i24" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
+<a href="https://www.instagram.com/gahyeona" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
 
 
   
