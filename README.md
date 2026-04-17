@@ -18,7 +18,7 @@
   
   
 ## ✨ Activity
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ahjin0845)](https://solved.ac/ahjin0845/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=Gahyeona)](https://solved.ac/Gahyeona/)
 
 <!--
 **dodonamga/dodonamga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
